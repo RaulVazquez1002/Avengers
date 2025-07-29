@@ -2,8 +2,8 @@
 name: ahora que quieres?
 about: Suggest an idea for this project
 title: ''
-labels: ''
-assignees: ''
+labels: enhancement
+assignees: RaulVazquez1002
 
 ---
 
